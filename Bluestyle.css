@@ -7,3 +7,7 @@ body {
     margin-left: 20px;
     text 
     }
+    img {
+        width:100%;
+        max-width: 360px;
+    }
